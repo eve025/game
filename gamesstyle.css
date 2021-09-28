@@ -58,3 +58,8 @@
 			padding:20px;background:-webkit-linear-gradient(top left, gray, #331199, #6622aa);padding:10px;font-weight:900;color:#fff;width:200px;height:auto;position:absolute;border-radius:2px;display:block;
 			top:50%;right:50%;transform:translate(-100%,100%);
 		}
+@media (max-width:6.3cm;){
+      section{
+       width:100%;
+       }
+}
